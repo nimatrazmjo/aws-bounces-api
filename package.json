@@ -6,7 +6,7 @@
     "start": "DEBUG=aws-bounces-api:* nodemon ./bin/www"
   },
   "dependencies": {
-    "aws-sdk": "^2.606.0",
+    "aws-sdk": "^2.814.0",
     "cookie-parser": "~1.4.4",
     "debug": "~2.6.9",
     "dotenv": "^8.2.0",
